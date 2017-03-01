@@ -36,3 +36,6 @@ To login to the container, use the included `script_key.pem` with your ssh.
 > You may also include the key in your `.ssh` directory in your home profile if you wish to skip using the -i.
 
 The `sandbox` user password is `sunshine`.
+
+## Warning
+I highly recommend you change the authorized_keys and script_key.pem if you are planning to use this container anywhere other than your own machine. The keys present a security risk as they are publicly available here.
