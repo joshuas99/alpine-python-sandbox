@@ -9,12 +9,12 @@ Quick and easy custom sandbox for running python scripts on py2.7
 2. Unzip the archive in the folder
 3. You should see 6 files:
 
-   	authorized_keys
-   	script_key.pem
-   	Dockerfile
-   	home
-   	motd
-   	README (this file)
+	- authorized_keys
+	- script_key.pem
+	- Dockerfile
+	- home
+	- motd
+	- README (this file)
 
 Now open a terminal or command prompt in that folder and run the following commands.
 
